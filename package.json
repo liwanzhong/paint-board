@@ -62,7 +62,12 @@
     "vite": "^3.2.5",
     "vite-plugin-eslint": "^1.8.1",
     "vite-plugin-pwa": "^0.20.5",
-    "vite-plugin-svgr": "^4.2.0"
+    "vite-plugin-svgr": "^4.2.0",
+    "workbox-expiration": "^7.3.0",
+    "workbox-precaching": "^7.3.0",
+    "workbox-routing": "^7.3.0",
+    "workbox-strategies": "^7.3.0",
+    "workbox-window": "^7.3.0"
   },
   "lint-staged": {
     "*.{js,jsx,tsx,ts}": [

@@ -1,10 +1,14 @@
-# 1.5.0
+# 1.6.0
 
 ### Feat
 
 - save as image supports custom configurations. Rotate, Scale, Crop
 - add transformers.js
 - support removing background for uploading images (browser needs to support WebGPU)
+- Add PWA support
+  - Offline support
+  - Add to home screen
+  - Automatic updates
 
 # 1.4.1
 

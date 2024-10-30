@@ -9,7 +9,8 @@
     "preview": "vite preview",
     "lint": "pnpm lint:script && pnpm lint:style",
     "lint:script": "eslint --ext .ts,.tsx --fix --quiet ./",
-    "lint:style": "stylelint --fix \"src/**/*.css\""
+    "lint:style": "stylelint --fix \"src/**/*.css\"",
+    "generate-pwa-assets": "pwa-assets-generator --preset minimal public/canvas.svg"
   },
   "dependencies": {
     "@huggingface/transformers": "^3.0.0",
@@ -60,6 +61,7 @@
     "typescript": "^4.9.5",
     "vite": "^3.2.5",
     "vite-plugin-eslint": "^1.8.1",
+    "vite-plugin-pwa": "^0.20.5",
     "vite-plugin-svgr": "^4.2.0"
   },
   "lint-staged": {

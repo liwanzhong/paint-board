@@ -109,7 +109,7 @@
       "line1": "多文件配置：支持多个画布切换，每个画布可自定义标题、增加、删除，并提供上传和下载功能"
     }
   },
-  "cleanModal":{
+  "cleanModal": {
     "title": "确认清除内容？"
   },
   "deleteFileModal": {
@@ -159,5 +159,12 @@
     "removeBackgroundProcessingSuccess": "去除背景处理成功",
     "restore": "还原",
     "upload": "上传"
+  },
+  "pwa": {
+    "installTip": "安装画板以支持离线使用",
+    "install": "安装",
+    "updateTip": "新版本可用",
+    "update": "更新",
+    "offlineReady": "应用已支持离线使用"
   }
 }

@@ -2,7 +2,8 @@ module.exports = {
   env: {
     browser: true,
     es2021: true,
-    node: true
+    node: true,
+    serviceworker: true
   },
   extends: [
     'eslint:recommended',
@@ -11,7 +12,7 @@ module.exports = {
     'plugin:prettier/recommended',
     'plugin:react/jsx-runtime'
   ],
-  ignorePatterns: ['node_modules'],
+  ignorePatterns: ['node_modules', 'dist', 'dev-dist', '*.js'],
   overrides: [],
   parser: '@typescript-eslint/parser',
   parserOptions: {

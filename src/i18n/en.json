@@ -109,7 +109,7 @@
       "line1": "Multi-file configuration: support multiple canvas switching, each canvas can be customized title, add, delete, and provide upload and download"
     }
   },
-  "cleanModal":{
+  "cleanModal": {
     "title": "Confirm clearing content?"
   },
   "deleteFileModal": {
@@ -159,5 +159,12 @@
     "removeBackgroundProcessingSuccess": "Remove Background Processing Success",
     "restore": "Restore",
     "upload": "Upload"
+  },
+  "pwa": {
+    "installTip": "Install Paint Board for offline use",
+    "install": "Install",
+    "updateTip": "New version available",
+    "update": "Update",
+    "offlineReady": "App ready to work offline"
   }
 }

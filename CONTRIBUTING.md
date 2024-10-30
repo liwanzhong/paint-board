@@ -23,8 +23,8 @@ In the case of new feature additions, please communicate with us first in Discus
 
 ## Development Environment
 
-+ Node.js 16 +
-+ Pnpm 8 +
+- Node.js 16 +
+- Pnpm 8 +
 
 ## Code Style
 
@@ -56,7 +56,7 @@ Please keep the code comments and code content in English for better understandi
 
 ## Contact Details
 
-+ Email: song.lhlh@gmail.com
-+ Telegram: https://t.me/longhao_song
-+ WeChat:
+- Email: song.lhlh@gmail.com
+- Telegram: https://t.me/longhao_song
+- WeChat:
   - <img style="width: 300px" src="https://raw.githubusercontent.com/LHRUN/file-store/main/paint-board/wechat.JPG" alt="wechat"/>
